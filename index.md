@@ -1,4 +1,4 @@
-
+# 👋 Hi, I'm **Loïc Faleu Kemajou**
 
 🎓 MSc in **Applied Computer Science** – Vrije Universiteit Brussel (VUB), Belgium  
 🎓 MSc in **Mathematics** – University of Buea, Cameroon  
@@ -10,7 +10,7 @@
 
 ## 🧬 Research Vision
 
-My primary research interest lies in the **application of Machine Learning to real-world medical challenges**. I believe that **Artificial Intelligence has only begun to scratch the surface** of what it can achieve in healthcare — from accelerating diagnosis to personalizing treatment and improving patient outcomes.
+My primary research interest lies in the **application of Machine Learning to real-world medical challenges**.I believe that **Artificial Intelligence has only begun to scratch the surface** of what it can achieve in healthcare — from accelerating diagnosis to personalizing treatment and improving patient outcomes.
 
 My goal is to develop **interpretable and reliable AI systems** that support clinicians in complex decision-making tasks. Through this, I hope to contribute to **bridging the gap between machine learning research and clinical practice**, making intelligent healthcare systems more **accessible, transparent, and impactful**.
 
@@ -34,7 +34,7 @@ With a strong mathematical background and hands-on engineering experience, I enj
 
 ---
 
-## 🧑‍💻 Technical Skills
+## 🚀 Technical Skills
 
 <div style="overflow-x:auto;">
 
@@ -48,6 +48,7 @@ With a strong mathematical background and hands-on engineering experience, I enj
 | **Languages** | English 🇬🇧 (Fluent), French 🇫🇷 (Fluent) |
 
 </div>
+
 ---
 
 ## 🧩 Machine Learning & Deep Learning Projects
