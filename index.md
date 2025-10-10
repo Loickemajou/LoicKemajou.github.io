@@ -18,8 +18,7 @@ My goal is to develop **interpretable and reliable AI systems** that support cli
 
 ## 🌟 About Me
 
-I’m passionate about the intersection of **Machine Learning**, **Mathematical Modeling**, and **AI Deployment**.  
-My research interests span **Deep Learning**, **Probabilistic Modeling**, and **Decision-Making under Uncertainty**.  
+I’m passionate about the intersection of **Machine Learning**, **Mathematical Modeling**, and **AI Deployment**. My research interests span **Deep Learning**, **Probabilistic Modeling**, and **Decision-Making under Uncertainty**.  
 
 With a strong mathematical background and hands-on engineering experience, I enjoy transforming complex ideas into deployable, data-driven systems.
 
@@ -36,7 +35,14 @@ With a strong mathematical background and hands-on engineering experience, I enj
 
 ## 🚀 Technical Skills
 
-<div style="overflow-x:auto;">
+<style>
+.scrollable-table {
+  overflow-x: auto;
+  display: block;
+}
+</style>
+
+<div class="scrollable-table">
 
 | **Category** | **Skills** |
 |---------------|------------|
@@ -48,6 +54,7 @@ With a strong mathematical background and hands-on engineering experience, I enj
 | **Languages** | English 🇬🇧 (Fluent), French 🇫🇷 (Fluent) |
 
 </div>
+
 
 ---
 
