@@ -34,7 +34,7 @@ With a strong mathematical background and hands-on engineering experience, I enj
 
 ---
 
-## 🚀 Technical Skills
+## 🧑‍💻 Technical Skills
 
 <div style="overflow-x:auto;">
 
