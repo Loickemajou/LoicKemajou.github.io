@@ -36,6 +36,7 @@ With a strong mathematical background and hands-on engineering experience, I enj
 
 ## 🧑‍💻 Technical Skills
 
+<div style="overflow-x:auto;">
 
 | **Category** | **Skills** |
 |---------------|------------|
@@ -46,7 +47,7 @@ With a strong mathematical background and hands-on engineering experience, I enj
 | **Dev Tools** | Git, Jupyter, Linux Command Line |
 | **Languages** | English 🇬🇧 (Fluent), French 🇫🇷 (Fluent) |
 
-
+</div>
 ---
 
 ## 🧩 Machine Learning & Deep Learning Projects
