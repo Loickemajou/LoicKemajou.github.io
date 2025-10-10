@@ -35,8 +35,6 @@ With a strong mathematical background and hands-on engineering experience, I enj
 
 ## 🚀 Technical Skills
 
-<div class="scrollable-table">
-
 | **Category** | **Skills** |
 |---------------|------------|
 | **Programming** | Python (advanced), LaTeX, Java, Bash |
@@ -45,8 +43,6 @@ With a strong mathematical background and hands-on engineering experience, I enj
 | **Mathematics & ML** | Statistical Learning, Optimization, Signal Processing |
 | **Dev Tools** | Git, Jupyter, Linux Command Line |
 | **Languages** | English 🇬🇧 (Fluent), French 🇫🇷 (Fluent) |
-
-</div>
 
 
 ---
