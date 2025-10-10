@@ -35,8 +35,6 @@ With a strong mathematical background and hands-on engineering experience, I enj
 
 ## 🚀 Technical Skills
 
-</style>
-
 <div class="scrollable-table">
 
 | **Category** | **Skills** |
