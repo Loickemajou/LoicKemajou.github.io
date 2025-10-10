@@ -35,24 +35,37 @@ With a strong mathematical background and hands-on engineering experience, I enj
 
 ## 🚀 Technical Skills
 
-<style>
-.scrollable-table {
-  overflow-x: auto;
-  display: block;
-}
-</style>
-
-<div class="scrollable-table">
-
-| **Category** | **Skills** |
-|---------------|------------|
-| **Programming** | Python (advanced), LaTeX, Java, Bash |
-| **Frameworks** | PyTorch, NumPy, scikit-learn, TensorFlow, Hugging Face Transformers |
-| **Specialized Tools** | LoRA / QLoRA finetuning, PyDICOM, NiBabel |
-| **Mathematics & ML** | Statistical Learning, Optimization, Signal Processing |
-| **Dev Tools** | Git, Jupyter, Linux Command Line |
-| **Languages** | English 🇬🇧 (Fluent), French 🇫🇷 (Fluent) |
-
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Skills</th>
+    </tr>
+    <tr>
+      <td>Programming</td>
+      <td>Python (advanced), LaTeX, Java, Bash</td>
+    </tr>
+    <tr>
+      <td>Frameworks</td>
+      <td>PyTorch, NumPy, scikit-learn, TensorFlow, Hugging Face Transformers</td>
+    </tr>
+    <tr>
+      <td>Specialized Tools</td>
+      <td>LoRA / QLoRA finetuning, PyDICOM, NiBabel</td>
+    </tr>
+    <tr>
+      <td>Mathematics & ML</td>
+      <td>Statistical Learning, Optimization, Signal Processing</td>
+    </tr>
+    <tr>
+      <td>Dev Tools</td>
+      <td>Git, Jupyter, Linux Command Line</td>
+    </tr>
+    <tr>
+      <td>Languages</td>
+      <td>English 🇬🇧 (Fluent), French 🇫🇷 (Fluent)</td>
+    </tr>
+  </table>
 </div>
 
 
