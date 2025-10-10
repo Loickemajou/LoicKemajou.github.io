@@ -7,17 +7,17 @@ This portfolio showcases my work — from **Jupyter notebooks** demonstrating ML
 
 ## 🧠 Machine Learning Projects (Jupyter Notebooks)
 
-### 🧩 [CNN for Image Classification](https://nbviewer.org/github/yourusername/ml-projects/blob/main/CNN_Image_Classification.ipynb)
+### 🧩 [Deep Q learning for Lunar Landing](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/Deep-Reinforcement-Learning)
 Trained a convolutional neural network to classify CIFAR-10 images with 85% accuracy.  
-📘 Technologies: *Python, TensorFlow, Matplotlib*  
-[🔗 View on GitHub](https://github.com/yourusername/ml-projects)
+📘 Technologies: *Python, Pytorch, Matplotlib*  
+[🔗 View Notebook](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Deep-Reinforcement-Learning/Deep_Q_Learning_for_Lunar_Landing_Complete.ipynb)
 
 ---
 
-### 🧮 [Sentiment Analysis of Tweets](https://nbviewer.org/github/yourusername/ml-projects/blob/main/Tweet_Sentiment.ipynb)
+### 🧮 [Image Super Resolution](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/Image%20Super%20Resolution)
 Built a sentiment classifier using scikit-learn to analyze social media data.  
-📘 Technologies: *Python, NLTK, scikit-learn*  
-[🔗 View Notebook](https://nbviewer.org/github/yourusername/ml-projects/blob/main/Tweet_Sentiment.ipynb)
+📘 Technologies: *Python, Pytorch*  
+[🔗 View Notebook](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Image%20Super%20Resolution/Image%20super%20resolution%20Project.ipynb)
 
 ---
 
