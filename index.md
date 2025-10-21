@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Loïc Faleu Kemajou**
+
 
 🎓 MSc in **Applied Computer Science** – Vrije Universiteit Brussel (VUB), Belgium  
 🎓 MSc in **Mathematics** – University of Buea, Cameroon  
@@ -79,7 +79,7 @@ Comparative study of **Supervised Learning Algorithms** (SVM, KNN, Random Forest
 📘 **Technologies:** scikit-learn, NumPy, Matplotlib
 [🔗 View Notebook](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Statistical_Foundation_Machine-Learning/SFML_Final_Project_final.ipynb)
 
-### 🫁[Pneumonia Classification with ResNet-50] (https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/Pneunomia%20classification)
+### 🫁 [Pneumonia Classification with ResNet-50](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/Pneunomia%20classification)
 Deep learning-based classification of pneumonia from chest X-ray images using the ResNet-50 architecture.
 📘 Technologies: PyTorch , torchvision, NumPy, Matplotlib, OpenCV
 [🔗 View Notebook](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Pneunomia%20classification/Pneumonia_classification.ipynb)
