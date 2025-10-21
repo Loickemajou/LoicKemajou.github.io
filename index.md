@@ -10,9 +10,7 @@
 
 ## 🧬 Research Vision
 
-My primary research interest lies in the **application of Machine Learning to real-world medical challenges**.I believe that **Artificial Intelligence has only begun to scratch the surface** of what it can achieve in healthcare — from accelerating diagnosis to personalizing treatment and improving patient outcomes.
-
-My goal is to develop **interpretable and reliable AI systems** that support clinicians in complex decision-making tasks. Through this, I hope to contribute to **bridging the gap between machine learning research and clinical practice**, making intelligent healthcare systems more **accessible, transparent, and impactful**.
+My primary research interest lies in the **application of Machine Learning to real-world challenges**.I believe that **Artificial Intelligence has only begun to scratch the surface** of what it can achieve.
 
 ---
 
@@ -60,34 +58,34 @@ Developed a **Super-Resolution Convolutional Neural Network (SRCNN)** to reconst
 📘 **Technologies:** Python, PyTorch, OpenCV  
 [🔗 View Notebook](https://nbviewer.org/github/Loickemajou/Machine-Learning-Projects/blob/main/Image%20Super%20Resolution/Image%20super%20resolution%20Project.ipynb)
 
-### 🧬 [Breast Cancer Classification](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/breast-cancer-classification)
+### 🧬 [Breast Cancer Classification](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/Breast_cancer_classification)
 Applied CNNs for microscopic breast cancer image classification.  
 📘 **Technologies:** TensorFlow, Keras, Pandas  
 🩺 *Focus on explainability in medical AI.*
+[🔗 View Notebook](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Breast_cancer_classification/classifying%20individual%20micros.ipynb)
 
-### 📈 [RNN for Medical Predictions](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/rnn-medical-predictions)
+### 📈 [RNN for Medical Predictions](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/RNN)
 Designed a **Recurrent Neural Network (RNN)** to forecast clinical outcomes from temporal patient data.  
-📘 **Technologies:** Python, TensorFlow, Pandas  
+📘 **Technologies:** Python, TensorFlow, Pandas 
+[🔗 View Notebook](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/RNN/RNN%20for%20medical%20predictions.ipynb)
 
-### ⚙️ [SFML Final Project](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/sfml-final)
+### ⚙️ [SFML Final Project](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/Statistical_Foundation_Machine-Learning)
 Comparative study of **Supervised Learning Algorithms** (SVM, KNN, Random Forests) on real-world datasets.  
 📘 **Technologies:** scikit-learn, NumPy, Matplotlib
+[🔗 View Notebook](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Statistical_Foundation_Machine-Learning/SFML_Final_Project_final.ipynb)
+
+### ⚙️ [SFML Final Project](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/Statistical_Foundation_Machine-Learning)
+Comparative study of **Supervised Learning Algorithms** (SVM, KNN, Random Forests) on real-world datasets.  
+📘 **Technologies:** scikit-learn, NumPy, Matplotlib
+[🔗 View Notebook](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Statistical_Foundation_Machine-Learning/SFML_Final_Project_final.ipynb)
+
+### 🫁[Pneumonia Classification with ResNet-50] (https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/Pneunomia%20classification)
+Deep learning-based classification of pneumonia from chest X-ray images using the ResNet-50 architecture.
+📘 Technologies: PyTorch , torchvision, NumPy, Matplotlib, OpenCV
+[🔗 View Notebook](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Pneunomia%20classification/Pneumonia_classification.ipynb)
 
 ---
 
-## 🌐 Deployed Web Apps (FastAPI + Next.js)
-
-### 🧭 [AI Image Captioning App](https://ai-captioner.vercel.app)
-Generates natural-language captions for uploaded images using a Transformer-based encoder-decoder model.  
-🛠️ **Tech Stack:** FastAPI, Next.js, PyTorch  
-[🔗 GitHub Repo](https://github.com/yourusername/ai-captioner)
-
-### 📊 [Text Analysis Dashboard](https://text-dashboard.vercel.app)
-Interactive dashboard for analyzing sentiment and linguistic patterns in text data.  
-🛠️ **Tech Stack:** FastAPI, Next.js, Plotly  
-[🔗 GitHub Repo](https://github.com/yourusername/text-dashboard)
-
----
 
 ## 🧪 Research & Academic Highlights
 
