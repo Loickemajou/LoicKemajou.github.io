@@ -1,4 +1,5 @@
 
+## 👋 Hi, I'm **Loïc Faleu Kemajou**
 
 🎓 MSc in **Applied Computer Science** – Vrije Universiteit Brussel (VUB), Belgium  
 🎓 MSc in **Mathematics** – University of Buea, Cameroon  
