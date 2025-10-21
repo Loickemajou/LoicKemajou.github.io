@@ -40,7 +40,7 @@ With a strong mathematical background and hands-on engineering experience, I enj
 | **Frameworks** | PyTorch, NumPy, scikit-learn, TensorFlow, Hugging Face Transformers |
 | **Specialized Tools** | LoRA / QLoRA finetuning, PyDICOM, NiBabel |
 | **Mathematics & ML** | Statistical Learning, Optimization, Signal Processing |
-| **Dev Tools** | Git, Jupyter, Linux Command Line |
+| **Dev Tools** | Docker, Git, Jupyter, Linux Command Line |
 | **Languages** | English 🇬🇧 (Fluent), French 🇫🇷 (Fluent) |
 
 
