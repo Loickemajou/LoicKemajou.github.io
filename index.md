@@ -36,4 +36,4 @@ My current interests include **Reinforcement Learning**, **Generative AI**, and 
 🎯 **Currently seeking PhD, research, or machine learning opportunities.**
 📩 [Email Me](mailto:loicfaleu@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/loic-faleu-55551b250/).
 
-➡️ **[View My Portfolio →](portfolio.html)**
+➡️ **[View My Portfolio →](portfolio.md)**
