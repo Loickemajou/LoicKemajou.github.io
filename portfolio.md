@@ -1,11 +1,11 @@
-# 🧩 Machine Learning & Research Portfolio
+#  Machine Learning & Research Portfolio
 
 Below are selected projects demonstrating my work in **Deep Learning**, **Reinforcement Learning**, and **Probabilistic Modeling**.
 Full code and notebooks are available on [GitHub](https://github.com/Loickemajou).
 
 ---
 
-### 🚀 Deep Q-Learning for Lunar Lander
+###  Deep Q-Learning for Lunar Lander
 
 Developed a **Deep Q-Network (DQN)** agent to land a lunar module autonomously using OpenAI Gym.
 📘 *Tech:* Python, PyTorch, Matplotlib
@@ -13,7 +13,7 @@ Developed a **Deep Q-Network (DQN)** agent to land a lunar module autonomously u
 
 ---
 
-### 🖼️ Image Super-Resolution using CNNs
+###  Image Super-Resolution using CNNs
 
 Implemented a **Super-Resolution CNN (SRCNN)** to reconstruct high-resolution images from low-resolution inputs.
 📘 *Tech:* Python, PyTorch, OpenCV
@@ -29,7 +29,7 @@ Applied **CNNs** for microscopic breast cancer image classification with explain
 
 ---
 
-### 🫁 Pneumonia Detection with ResNet-50
+###  Pneumonia Detection with ResNet-50
 
 Trained a **ResNet-50** model for pneumonia classification from X-ray images.
 📘 *Tech:* PyTorch, torchvision, OpenCV
@@ -37,7 +37,7 @@ Trained a **ResNet-50** model for pneumonia classification from X-ray images.
 
 ---
 
-### ⚙️ Comparative Study of Supervised Algorithms
+###  Comparative Study of Supervised Algorithms
 
 Analyzed **SVM**, **KNN**, and **Random Forests** on benchmark datasets.
 📘 *Tech:* scikit-learn, NumPy, Matplotlib
@@ -45,7 +45,7 @@ Analyzed **SVM**, **KNN**, and **Random Forests** on benchmark datasets.
 
 ---
 
-### ☁️ Probabilistic Radar Nowcasting (Internship Project)
+###  Probabilistic Radar Nowcasting (Internship Project)
 
 Integrated **DeepMind’s DGMR** into the **pySTEPS** framework for ensemble-based weather forecasting.
 📘 *Tech:* PyTorch, probabilistic ML, ensemble learning
@@ -53,4 +53,4 @@ Integrated **DeepMind’s DGMR** into the **pySTEPS** framework for ensemble-bas
 
 ---
 
-🔙 [← Back to About Me](index.md)
+ [← Back to About Me](index.md)
