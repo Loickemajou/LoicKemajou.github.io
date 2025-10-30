@@ -21,7 +21,7 @@ Implemented a **Super-Resolution CNN (SRCNN)** to reconstruct high-resolution im
 
 ---
 
-### 🧬 Breast Cancer Classification
+###  Breast Cancer Classification
 
 Applied **CNNs** for microscopic breast cancer image classification with explainability focus.
 📘 *Tech:* TensorFlow, Keras, Pandas
