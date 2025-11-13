@@ -53,4 +53,13 @@ Integrated **DeepMind’s DGMR** into the **pySTEPS** framework for ensemble-bas
 
 ---
 
+### Evidential Deep Learning (Research Project)
+
+Implemented Evidential Deep Learning on the MNIST dataset to model predictive uncertainty using a Dirichlet-based neural network (from open-source repository:
+teddykoker/evidential-learning-pytorch).
+📘 Tech: PyTorch, uncertainty estimation, evidential reasoning
+🔗 [View Details](https://github.com/Loickemajou/Machine-Learning-Projects/tree/main/Evidential_deep_learning_implimetation)
+
+---
+
  [← Back to About Me](index.md)
