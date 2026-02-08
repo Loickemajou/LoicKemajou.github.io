@@ -2,7 +2,7 @@
  MSc in **Applied Computer Science** – Vrije Universiteit Brussel (VUB), Belgium
  MSc in **Mathematics** – University of Buea, Cameroon
  Based in **Brussels, Belgium**
- [loicfaleu@gmail.com](mailto:loicfaleu@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/loic-faleu-55551b250/) | [GitHub](https://github.com/Loickemajou)
+ [loicfaleu@gmail.com](mailto:loicfaleu@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/loic-faleu-55551b250/) | [GitHub](https://github.com/Loickemajou)|[Kaggle](https://www.kaggle.com/loicfaleu)
 
 ---
 
