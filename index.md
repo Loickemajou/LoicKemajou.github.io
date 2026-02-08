@@ -27,7 +27,7 @@ My current interests include **Reinforcement Learning**, **Generative AI**, and 
 **Languages:** Python, Java, Bash, LaTeX
 **Libraries & Frameworks:** PyTorch, TensorFlow, scikit-learn, NumPy, Hugging Face
 **Mathematical Skills:** Statistical learning, optimization, complex analysis
-**Dev Tools:** Docker, Git, Jupyter, Linux CLI
+**Dev Tools:** Docker, Git, Linux CLI, FastAPI, Nextjs, Database (Postgres and sqlachemy)
 **Languages:** English 🇬🇧 | French 🇫🇷 (Fluent)
 
 ---
