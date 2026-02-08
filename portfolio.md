@@ -62,4 +62,78 @@ teddykoker/evidential-learning-pytorch).
 
 ---
 
+# Application Development Portfolio
+
+
+
+---
+
+## Project: Gemination
+
+This portfolio presents my participation in a **Devpost competition** focused on building innovative applications using **Google’s Gemini API**.
+
+During this competition, I designed and built a full-stack web application called **Gemination**. The goal of the project was to help farmers diagnose crop diseases quickly and easily using AI, images, video, voice, and multiple languages.
+
+Gemination is an agriculture-focused web application that allows users to upload images or videos of crops, along with optional voice descriptions. The system analyzes the data using **Gemini AI** and returns:
+- the crop type  
+- the possible disease  
+- recommended treatment  
+- a confidence score  
+
+The application also supports **multilingual chat and voice output**, making it accessible to farmers who prefer speaking and listening instead of reading.
+
+---
+
+## Technologies Used
+
+### Backend
+- **FastAPI** – used to build a fast and scalable backend API
+- **Gemini API** – used for:
+  - image and video analysis  
+  - text understanding and reasoning  
+  - audio transcription  
+  - language translation  
+- **Google Cloud Text-to-Speech (TTS)** – used to convert AI responses into spoken audio
+- **SQLAlchemy** – used for database models and data persistence
+- **SQLite / SQL database** – used to store users, diagnoses, and chat history
+
+---
+
+### Frontend
+- **Next.js** – used to build the user interface
+- Supports:
+  - image and video upload  
+  - voice input  
+  - multilingual selection  
+  - audio playback for AI responses  
+
+---
+
+## Key Features
+- AI-powered crop diagnosis
+- Confidence-based responses for safer guidance
+- Voice input and audio output
+- Multi-language support
+- Location-aware analysis (when GPS data is available)
+- Clean separation between backend and frontend
+
+---
+
+## What This Project Demonstrates
+
+This project shows my ability to:
+- design and build a **complete full-stack application**
+- integrate **AI services** into real products
+- work with **APIs, databases, and cloud services**
+- handle **multimodal data** (image, video, text, audio)
+- build applications with **real-world impact**
+
+---
+
+## Conclusion
+
+Gemination represents my growth as a developer, from idea to implementation. It demonstrates how modern AI tools like Gemini can be combined with strong backend and frontend frameworks to solve real problems, especially in underserved communities such as small-scale farmers.
+
+[🔗 View Details]([https://github.com/Loickemajou](https://github.com/Loickemajou/AgriAssist))
+
  [← Back to About Me](index.md)
