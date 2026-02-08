@@ -134,6 +134,6 @@ This project shows my ability to:
 
 Gemination represents my growth as a developer, from idea to implementation. It demonstrates how modern AI tools like Gemini can be combined with strong backend and frontend frameworks to solve real problems, especially in underserved communities such as small-scale farmers.
 
-[🔗 View Details]([https://github.com/Loickemajou](https://github.com/Loickemajou/AgriAssist))
+[🔗 View Details](https://github.com/Loickemajou/AgriAssist)
 
  [← Back to About Me](index.md)
