@@ -72,6 +72,8 @@ teddykoker/evidential-learning-pytorch).
 
 This portfolio presents my participation in a **Devpost competition** focused on building innovative applications using **Google’s Gemini API**.
 
+[Demo video](https://www.youtube.com/watch?v=gG4MXohT8HI&pp=ygUUZ2VtaW5hdG9uIGRlbW8gdmlkZW8%3D)
+
 During this competition, I designed and built a full-stack web application called **Gemination**. The goal of the project was to help farmers diagnose crop diseases quickly and easily using AI, images, video, voice, and multiple languages.
 
 Gemination is an agriculture-focused web application that allows users to upload images or videos of crops, along with optional voice descriptions. The system analyzes the data using **Gemini AI** and returns:
